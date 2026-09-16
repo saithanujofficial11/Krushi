@@ -1,0 +1,21 @@
+# Binaries for all platforms
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go vet tool, saved to a file
+vet.out
+
+# Dependency directories (vendoring)
+vendor/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
