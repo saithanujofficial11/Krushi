@@ -1,2 +1,2 @@
 # Krushi
-Farming Ecosystem
+Farming Ecosystem by glssk, gst, gd
