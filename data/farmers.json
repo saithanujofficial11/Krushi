@@ -1,0 +1,18 @@
+[
+  {
+    "farmerId": "6dabe572-6019-4493-bb2a-bd3832246afa",
+    "name": "Dheeraj",
+    "contactInfo": {
+      "primaryPhone": "+91-9876543210",
+      "address": "Plot 42, Green Fields, Nashik, Maharashtra"
+    }
+  },
+  {
+    "farmerId": "dd77f4df-c02f-44ef-8ec3-0bfaa890a98e",
+    "name": "Sai",
+    "contactInfo": {
+      "primaryPhone": "+91-9876543211",
+      "address": "Plot 43, Green Fields, Nashik, Maharashtra"
+    }
+  }
+]
