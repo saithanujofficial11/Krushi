@@ -1,3 +1,5 @@
+api.exe
+*.exe
 # Binaries for all platforms
 *.exe
 *.exe~
